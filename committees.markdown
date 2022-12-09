@@ -8,7 +8,11 @@ show_sidebar: true
 
 ## Steering Committee
 
-
+- Nazim Fatès, Loria Lab Inria Nancy, France
+- Hector Zenil, The Alan turing Institute, Cambridge University, and Oxfor Immune Algorithmics, England
+- Pedro Balbi de Oliveira, Universidade Presbiteriana Mackenzie, Brazil
+- Pierre Guillon, Université d'Aix-Marseille, France
+- Dipanwita Roy Chowdhury, IIT Kharagpur, India
 
 
 ## Program Committee
