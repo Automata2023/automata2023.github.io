@@ -12,4 +12,4 @@ show_sidebar: true
 
 ### Submission via Easychair
 
-The link to submit to AUTOMATA via easychair will be available shorly.
+The link to submit to AUTOMATA via easychair will be available shortly.
