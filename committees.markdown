@@ -10,7 +10,7 @@ show_sidebar: true
 
 - Nazim Fatès, Loria Lab Inria Nancy, France
 - Hector Zenil, The Alan turing Institute, Cambridge University, and Oxfor Immune Algorithmics, England
-- Pedro Balbi de Oliveira, Universidade Presbiteriana Mackenzie, Brazil
+- Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
 - Pierre Guillon, Université d'Aix-Marseille, France
 - Dipanwita Roy Chowdhury, IIT Kharagpur, India
 
@@ -20,7 +20,7 @@ show_sidebar: true
 - Jan Baetens, Ghent University, Belgium
 - Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
 - Sukanta Das, Indian Institute of Engineering Science and Technology, India
-- Andreas Deutsch, TU Dresden, Ger,amo
+- Andreas Deutsch, TU Dresden, Germany
 - Nazim Fates, INRIA & Université de Lorraine, France
 - Maximilien Gadouleau, Durham University, United Kingdom
 - Anahi Gajardo, Universidad de Concepción, Chile
