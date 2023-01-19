@@ -17,4 +17,7 @@ identify and study within an interdisciplinary and multidisciplinary context, th
 
 The AUTOMATA series is the official annual event of [IFIP WG 1.5](https://ifipwg15.inria.fr/), the Working Group 5 (on Cellular Automata and Discrete Complex Systems), of the Technical Committee 1 (on Foundations of Computer Science), of the [International Federation for Information Processing (IFIP)](https://ifip.org/).
 
-
+|                                                 |                                                    |                                            |
+|:-----------------------------------------------:|:--------------------------------------------------:|:------------------------------------------:|
+| ![IFIP Logo](/assets/images/ifip-logo.png)      | ![Springer Logo](/assets/images/logo-springer.jpg) | ![LNCS Logo](/assets/images/LNCS-logo.jpg) |
+|-------------------------------------------------|----------------------------------------------------|--------------------------------------------|

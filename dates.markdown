@@ -15,7 +15,7 @@ More info on the [submission process](/submission.html).
 |                                                 |                                     |
 |-------------------------------------------------|-------------------------------------|
 | Submission deadline (full papers)               | April 21, 2023                      |
-| Notification of acceptance (full papers)          | June 9, 2023                        |
+| Notification of acceptance (full papers)        | June 9, 2023                        |
 | Camera ready (full papers)                      | June 23, 2023                       |
 | Submission deadline (exploratory papers)        | July 7, 2023                        |
 | Notification of acceptance (exploratory papers) | July 14, 2023                       |
@@ -23,4 +23,3 @@ More info on the [submission process](/submission.html).
 | Conference                                      | August 30, 2023 - September 1, 2023 |
 |-------------------------------------------------|-------------------------------------|
 
-At least one author for each accepted paper must register by July 28, 202.
