@@ -20,8 +20,10 @@ show_sidebar: true
 - Jan Baetens, Ghent University, Belgium
 - Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
 - Sukanta Das, Indian Institute of Engineering Science and Technology, India
+- Alberto Dennunzio, University of Milano-Bicocca, Italy
 - Andreas Deutsch, TU Dresden, Germany
 - Nazim Fates, INRIA & Université de Lorraine, France
+- Enrico Formenti, Université Côte d'Azur, France
 - Maximilien Gadouleau, Durham University, United Kingdom
 - Anahi Gajardo, Universidad de Concepción, Chile
 - Pierre Guillon, CNRS, France
