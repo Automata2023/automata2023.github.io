@@ -19,6 +19,7 @@ show_sidebar: true
 
 - Jan Baetens, Ghent University, Belgium
 - Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
+- Alonso Castillo-Ramirez, University of Guadalajara, Mexico
 - Sukanta Das, Indian Institute of Engineering Science and Technology, India
 - Alberto Dennunzio, University of Milano-Bicocca, Italy
 - Andreas Deutsch, TU Dresden, Germany

@@ -15,4 +15,6 @@ These Automata workshops aim to Establish and maintain a permanent, internationa
 These workshops support the development of theory and applications of CA and DCS (e.g. parallel computing, physics, biology, social sciences, and others) and to
 identify and study within an interdisciplinary and multidisciplinary context, the important fundamental aspects, concepts, notions and problems concerning CA and DCS.
 
-The AUTOMATA series is the official annual event of IFIP WG 1.5, the Working Group 5 (on Cellular Automata and Discrete Complex Systems), of the Technical Committee 1 (on Foundations of Computer Science), of the International Federation for Information Processing (IFIP).
+The AUTOMATA series is the official annual event of [IFIP WG 1.5](https://ifipwg15.inria.fr/), the Working Group 5 (on Cellular Automata and Discrete Complex Systems), of the Technical Committee 1 (on Foundations of Computer Science), of the [International Federation for Information Processing (IFIP)](https://ifip.org/).
+
+
