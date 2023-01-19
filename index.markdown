@@ -19,5 +19,5 @@ The AUTOMATA series is the official annual event of [IFIP WG 1.5](https://ifipwg
 
 |                                                 |                                                    |                                            |
 |:-----------------------------------------------:|:--------------------------------------------------:|:------------------------------------------:|
-| ![IFIP Logo](/assets/images/ifip-logo.png)      | ![Springer Logo](/assets/images/logo-springer.jpg) | ![LNCS Logo](/assets/images/LNCS-logo.jpg) |
+| ![IFIP Logo](/assets/images/ifip-logo.png)      | ![Springer Logo](/assets/images/logo-springer.png) | ![LNCS Logo](/assets/images/LNCS-Logo.jpg) |
 |-------------------------------------------------|----------------------------------------------------|--------------------------------------------|
