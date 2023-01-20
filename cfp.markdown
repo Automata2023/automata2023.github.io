@@ -9,7 +9,7 @@ show_sidebar: true
 ## AUTOMATA 2023
 _29th International Workshop on Cellular Automata and Discrete Complex Systems (AUTOMATA 2023)_
 
-** University of Trieste **
+**University of Trieste**
 
 **Trieste, Italy**
 
