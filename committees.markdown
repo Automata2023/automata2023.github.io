@@ -44,6 +44,7 @@ show_sidebar: true
 - Siamak Taati, American University of Beirut, Lebanon
 - Guillaume Theyssier, CNRS & Université d'Aix-Marseille, France
 - Ilkka Törmä, University of Turku, Finland
+- Hitoshi Umeo, Osaka Electro-Communication University, Japan
 
 ## Organizing Committee
 
