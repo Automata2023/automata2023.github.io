@@ -13,7 +13,7 @@ Submissions should contain original research that has not previously been publis
 
 ### Paper format
 
-Authors are invited to submit papers of no more than 12 pages (for full papers), 8 pages (for exploratory papers) or 4 pages (for extended abstracts). Submission must be formatted in LaTeX using the [LNCS format](http://www.springer.com/computer/lncs/lncs+authors) and submitted in Portable Document Format (PDF).
+Authors are invited to submit papers of no more than 12 pages (for full papers), 8 pages (for exploratory papers) or 4 pages (for extended abstracts). Submission must be formatted in LaTeX using the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and submitted in Portable Document Format (PDF).
 
 ### Submission via Easychair
 All papers are to be submitted via the [EasyChair system](https://easychair.org/my/conference?conf=automata2023).
