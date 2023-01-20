@@ -6,15 +6,7 @@ hero_image: /assets/images/bg.jpg
 show_sidebar: true
 ---
 
-## AUTOMATA 2023
-_29th International Workshop on Cellular Automata and Discrete Complex Systems (AUTOMATA 2023)_
-
-**University of Trieste**
-
-**Trieste, Italy**
-
-**August 30 -- September 1**
-
+## Call for Papers
 
 ### Scope
 
