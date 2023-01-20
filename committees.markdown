@@ -9,7 +9,7 @@ show_sidebar: true
 ## Steering Committee
 
 - Nazim Fatès, Loria Lab Inria Nancy, France
-- Hector Zenil, The Alan turing Institute, Cambridge University, and Oxfor Immune Algorithmics, England
+- Hector Zenil, The Alan turing Institute, Cambridge University, and Oxford Immune Algorithmics, England
 - Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
 - Pierre Guillon, Université d'Aix-Marseille, France
 - Dipanwita Roy Chowdhury, IIT Kharagpur, India
@@ -44,7 +44,7 @@ show_sidebar: true
 - Siamak Taati, American University of Beirut, Lebanon
 - Guillaume Theyssier, CNRS & Université d'Aix-Marseille, France
 - Ilkka Törmä, University of Turku, Finland
-- Hitoshi Umeo, Osaka Electro-Communication University, Japan
+- Hiroshi Umeo, Osaka Electro-Communication University, Japan
 
 ## Organizing Committee
 
