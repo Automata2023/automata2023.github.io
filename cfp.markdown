@@ -37,65 +37,16 @@ Topics of interest include (but are not limited to):
 
 ### Important Dates
 
-- Submission deadline (full papers): April 21, 2023
-- Notification (full papers): June 9, 2023
-- Camera ready (full papers): June 2023, 2023
-- Submission deadline (exploratory papers and extended abstracts): July 7, 2023
-- Notification (exploratory papers and extended abstracts): July 14, 2023
-- Camera ready (exploratory papers and extended abstracts): July 28, 2023
-- AUTOMATA 2023: August 30 - September 1, 2023
+See [Important Dates](/dates.html).
 
 
 ### Paper Categories
 
 There are three categories of submission -- full papers, exploratory papers and extended abstracts. Full papers are meant to report more complete and denser research, while the later submission deadline for exploratory papers and extended abstract allows quick reporting of recent discoveries, work-in-progress and/or partial results. Submissions in the full paper category are refereed and selected by the program committee. Papers in the exploratory and extended abstracts category go through a less rigorous evaluation process. All accepted papers must be presented at the conference.
 
-## Steering Committee
+## Steering, Program, and Organizing Committees
 
-- Nazim Fatès, Loria Lab Inria Nancy, France
-- Hector Zenil, The Alan turing Institute, Cambridge University, and Oxford Immune Algorithmics, England
-- Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
-- Pierre Guillon, Université d'Aix-Marseille, France
-- Dipanwita Roy Chowdhury, IIT Kharagpur, India
-
-### Program Committee (in update)
-
-- Jan Baetens, Ghent University, Belgium
-- Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
-- Alonso Castillo-Ramirez, University of Guadalajara, Mexico
-- Sukanta Das, Indian Institute of Engineering Science and Technology, India
-- Alberto Dennunzio, University of Milano-Bicocca, Italy
-- Andreas Deutsch, TU Dresden, Germany
-- Nazim Fates, INRIA & Université de Lorraine, France
-- Enrico Formenti, Université Côte d'Azur, France
-- Maximilien Gadouleau, Durham University, United Kingdom
-- Anahi Gajardo, Universidad de Concepción, Chile
-- Pierre Guillon, CNRS, France
-- Tomasz Gwizdałła, University of Lodz, Poland
-- Rolf Hoffmann, TU Darmstadt, Germany
-- Jarkko Kari, University of Turku, Finland
-- Martin Kutrib, University of Giessen, Germany
-- Andreas Malcher, University of Giessen, Germany
-- Luca Manzoni, University of Trieste, Italy (_chair_)
-- Luca Mariot, University of Twente, The Netherlands (_chair_)
-- Kenichi Morita, Hiroshima University, Japan
-- Kévin Perrot, Université d'Aix-Marseille, France
-- Dipanwita Roy Chowdhury, IIT Kharagpur, India
-- Ville Salo, University of Turku, Finland
-- Biplab K. Sikdar, Indian Institute of Engineering Science and Technology, India
-- Georgios Ch. Sirakoulis, Democritus University of Thrace, Greece
-- Siamak Taati, American University of Beirut, Lebanon
-- Guillaume Theyssier, CNRS & Université d'Aix-Marseille, France
-- Ilkka Törmä, University of Turku, Finland
-- Hiroshi Umeo, Osaka Electro-Communication University, Japan
-
-
-### Organizing Committee
-
-- Luca Manzoni (chair)
-- Luca Mariot (chair)
-- Giulia Bernardini
-
+See [Committees](/committees.html)
 
 ### Submission
 
