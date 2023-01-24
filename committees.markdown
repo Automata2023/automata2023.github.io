@@ -8,12 +8,11 @@ show_sidebar: true
 
 ## Steering Committee
 
-- Nazim Fatès, Loria Lab Inria Nancy, France
-- Hector Zenil, The Alan turing Institute, Cambridge University, and Oxford Immune Algorithmics, England
 - Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
-- Pierre Guillon, Université d'Aix-Marseille, France
+- Nazim Fatès, INRIA & Université de Lorraine, France
+- Pierre Guillon, CNRS & Université d’Aix-Marseille, France
 - Dipanwita Roy Chowdhury, IIT Kharagpur, India
-
+- Hector Zenil, The Alan turing Institute, Cambridge University, and Oxford Immune Algorithmics, England
 
 ## Program Committee (in update)
 
@@ -23,11 +22,11 @@ show_sidebar: true
 - Sukanta Das, Indian Institute of Engineering Science and Technology, India
 - Alberto Dennunzio, University of Milano-Bicocca, Italy
 - Andreas Deutsch, TU Dresden, Germany
-- Nazim Fates, INRIA & Université de Lorraine, France
+- Nazim Fatès, INRIA & Université de Lorraine, France
 - Enrico Formenti, Université Côte d'Azur, France
 - Maximilien Gadouleau, Durham University, United Kingdom
 - Anahi Gajardo, Universidad de Concepción, Chile
-- Pierre Guillon, CNRS, France
+- Pierre Guillon, CNRS & Université d'Aix-Marseille, France
 - Tomasz Gwizdałła, University of Lodz, Poland
 - Rolf Hoffmann, TU Darmstadt, Germany
 - Jarkko Kari, University of Turku, Finland
