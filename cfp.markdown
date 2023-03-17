@@ -36,7 +36,11 @@ See [Important Dates](/dates.html).
 
 There are three categories of submission -- full papers, exploratory papers and extended abstracts. Full papers are meant to report more complete and denser research, while the later submission deadline for exploratory papers and extended abstract allows quick reporting of recent discoveries, work-in-progress and/or partial results. Submissions in the full paper category are refereed and selected by the program committee. Papers in the exploratory and extended abstracts category go through a less rigorous evaluation process. All accepted papers must be presented at the conference.
 
-## Steering, Program, and Organizing Committees
+### Invited Speakers
+
+See [Invited Speakers](/invited.html)
+
+### Steering, Program, and Organizing Committees
 
 See [Committees](/committees.html)
 
@@ -52,4 +56,4 @@ Accepted full papers will appear in the proceedings published by Springer in the
 
 ### Journal Special Issue
 
-It is planned that extended version of some selected papers will be considered for publication in special issues of an international renown journal.
+It is planned that extended version of some selected papers will be considered for publication in a special issue of the journal [Natural Computing](https://link.springer.com/journal/11047/volumes-and-issues)
