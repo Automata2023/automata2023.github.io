@@ -50,5 +50,6 @@ show_sidebar: true
 - Luca Manzoni, University of Trieste, Italy _(chair)_
 - Luca Mariot, University of Twente, The Netherlands _(chair)_
 - Giulia Bernardini, University of Trieste, Italy
-
+- Giuliamaria Menara, University of Trieste, Italy
+- Gloria Pietropolli, University of Trieste, Italy
 
