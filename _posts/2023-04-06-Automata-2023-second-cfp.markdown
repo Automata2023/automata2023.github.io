@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Automata 2023 Second CfP
+=======
+title: Automata 2023 First CfP
+>>>>>>> origin/main
 layout: post
 hero_image: /assets/images/bg.jpg
 author: Automata 2023 Organizing Committee
