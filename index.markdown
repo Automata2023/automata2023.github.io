@@ -6,6 +6,11 @@ hero_image: /assets/images/bg.jpg
 show_sidebar: true
 ---
 
+<center>
+**Deadline extnesion for full paper submission**  
+new deadline: May 5, 2023
+</center>
+
 ## Conference Info
 
 The 29th International Workshop on Cellular Automata and Discrete Complex Systems will take place between August 30, 2023 and September 1, 2023 at the [University of Trieste](https://www.units.it) in Italy
