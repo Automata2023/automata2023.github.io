@@ -8,7 +8,7 @@ show_sidebar: true
 
 <center>
 <h3><b>Deadline extension for full paper submission</b><br>
-new deadline: May 5, 2023</h3>
+new deadline: <s>May 5</s> May 9, 2023</h3>
 </center>
 
 ## Conference Info
