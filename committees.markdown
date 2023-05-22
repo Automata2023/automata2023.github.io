@@ -14,7 +14,7 @@ show_sidebar: true
 - Dipanwita Roy Chowdhury, IIT Kharagpur, India
 - Hector Zenil, The Alan turing Institute, Cambridge University, and Oxford Immune Algorithmics, England
 
-## Program Committee (in update)
+## Program Committee
 
 - Jan Baetens, Ghent University, Belgium
 - Pedro Paulo Balbi, Universidade Presbiteriana Mackenzie, Brazil
