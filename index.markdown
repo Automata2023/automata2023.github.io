@@ -7,8 +7,8 @@ show_sidebar: true
 ---
 
 <center>
-<h3><b>Deadline extension for full paper submission</b><br>
-new deadline: <s>May 5</s> May 9, 2023</h3>
+<h3><b>Deadline extension for exploratory papers and extended abstracts submission</b><br>
+new deadline: July 14, 2023</h3>
 </center>
 
 ## Conference Info
