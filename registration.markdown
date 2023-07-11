@@ -12,7 +12,7 @@ show_sidebar: true
 |--------------------|--------:|-------------------------:|---------:|--------:|
 | Early (by 31/07)   | 360.00€ |                  325.00€ |  225.00€ | 150.00€ |
 | Late (after 31/07) | 415.00€ |                  375.00€ |  275.00€ | 150.00€ |
-| Onsite (30/08-1/09 | 500.00€ |                  450.00€ |  350.00€ | 150.00€ |
+| Onsite (30/08-1/09) | 500.00€ |                  450.00€ |  350.00€ | 150.00€ |
 
 ## Registration form
 
@@ -36,4 +36,4 @@ The online registration includes:
 
 **Can I bring a guest to the welcome cocktail or to the social dinner?**
 
-Yes, please contact us directly to but a "+1" ticket for the events.
+Yes, please contact us directly to buy a "+1" ticket for the events.
