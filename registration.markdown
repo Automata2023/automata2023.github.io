@@ -22,7 +22,7 @@ The registration to Automata 2023 is in two steps:
 
 2. **Payment**. After filling out the registration form please complete the payment at the [payment link](https://units.pagoatenei.cineca.it/frontoffice/modellopagamento?id=1173&lang=en) following the instructions below:
 
-<img src="/assets/images/‎instructions.jpg" alt="" style="float: left; width: 95%; box-shadow: 2px 2px 8px #888888; margin: 30px">
+<img src="/assets/images/instructions.jpg" alt="" style="float: left; width: 95%; box-shadow: 2px 2px 8px #888888; margin: 30px">
 
 ## FAQ
 
