@@ -53,7 +53,6 @@ The registration desk opens at 9:00
 | 10:30-11:00 | Coffee Break                 |
 | 11:00-12:15 | Session 5                    |
 | 12:15-12:30 | Closing                      |
-| 12:30-14:00 | Lunch                        |
 
 ## Detailed Program
 
