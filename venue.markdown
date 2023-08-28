@@ -44,6 +44,6 @@ Trieste has numerous hotels of all price ranges. The university is on the hills 
 
 ### Reaching the conference location
 
-It can be reached by bus from the city center by getting down at [the bus stop in Via Valerio 2](https://goo.gl/maps/UKQPkFwhWzHva1536) (lines 17, 17/, 4, 51, 42). From there please follow the directions to the main conference room.
+It can be reached by bus from the city center by getting down at [the bus stop in Via Valerio 2](https://goo.gl/maps/UKQPkFwhWzHva1536) (lines 17, 17/, 4, 51, 42). From there please follow the [directions to the main conference room](./rooms.html).
 
 The [bus tickets](https://tplfvg.it/it/) can be brought at automatic vending machines near the train station and in some of bus stops. It is also possible to buy them with the app of the transport company managing the buses. For the conference the least expensive options are either two single tickets every day (1.35€ each) or one daily ticket (3€) for each conference day.

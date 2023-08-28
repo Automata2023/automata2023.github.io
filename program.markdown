@@ -39,9 +39,9 @@ The registration desk opens at 9:00
 | 15:30-16:00 | Coffee Break                     |
 | 16:00-17:30 | IFIP meeting                     |
 
-|            | <img width=500/> |
-|-----------:|:-----------------|
-| From 20:30 | Social Dinner    |
+|            | <img width=500/>                                               |
+|-----------:|:---------------------------------------------------------------|
+| From 20:30 | Social Dinner at [Pier](https://www.pierts.it), Molo Venezia 1 |
 
 ### Friday September 1, 2023
 
@@ -59,7 +59,7 @@ The registration desk opens at 9:00
 ### Session 1
 __Wednesday August 30, 2023. 14:50-15:30__
 
-Chair: TBD
+Chair: Barbara Wolnik
 
 |------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14:50-15:10 | _Firas Ben Ramdhane and Pierre Guillon_ <br> Dill maps in the Weyl-like space associated to the Levenshtein distance                                            |
@@ -68,7 +68,7 @@ Chair: TBD
 ### Session 2
 __Wednesday August 30, 2023. 16:00-17:30__
 
-Chair: TBD
+Chair: Kevin Perrot
 
 |------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 16:00-16:25 | _Nazim Fates, Régine Marchand, Irène Marcovici_ <br> A decentralised diagnosis method with probabilistic cellular automata                                         |
@@ -79,7 +79,7 @@ Chair: TBD
 ### Session 3
 __Thursday August 31, 2023. 11:00-12:30__
 
-Chair: TBD
+Chair: Nazim Fates
 
 |------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:00-11:25 | _Ville Salo, Ilkka Törmä_ <br> Diddy: a Python toolbox for infinite discrete dynamical systems                                                                           |
@@ -90,7 +90,7 @@ Chair: TBD
 ### Session 4
 __Thursday August 31, 2023. 14:00-15:30__
 
-Chair: TBD
+Chair: Dora Giammarresi
 
 |------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14:00-14:25 | _Ville Salo, Juliette Schabanel_ <br> Triangle solitaire                                                                                              |
@@ -101,7 +101,7 @@ Chair: TBD
 ### Session 5
 __Friday September 1, 2023. 11:00-12:15__
 
-Chair: TBD
+Chair: Enrico Formenti
 
 |-------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  11:00-11:25 | _Pyry Paturi_ <br> On the surjunctivity and the Garden of Eden theorem for non-uniform cellular automata                                                                    |

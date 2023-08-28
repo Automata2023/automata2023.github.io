@@ -6,10 +6,9 @@ hero_image: /assets/images/bg.jpg
 show_sidebar: true
 ---
 
-<center>
-<h3><b>Deadline extension for exploratory papers and extended abstracts submission</b><br>
-new deadline: July 14, 2023</h3>
-</center>
+Accepted full papers on [Springer LNCS](https://link.springer.com/book/10.1007/978-3-031-42250-8)
+
+Accepted exploratory papers and extended abstracts on [Zenodo](https://zenodo.org/record/8275851).
 
 ## Conference Info
 
