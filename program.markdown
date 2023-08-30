@@ -22,7 +22,7 @@ The registration desk opens at 14:00
 
 |            |                  |
 |-----------:|:-----------------|
-| From 19:00 | Welcome cocktail |
+| From 19:00 | Welcome cocktail at [040 social food](https://www.discover-trieste.it/it/15736/040-social-food) |
 
 ### Thursday August 31, 2023
 
